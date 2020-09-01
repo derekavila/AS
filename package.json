@@ -1,0 +1,26 @@
+{
+  "name": "cursodas",
+  "version": "1.0.0",
+  "description": "Curso Desarrollo de Aplicaciones Seguras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekavila/AS.git"
+  },
+  "keywords": [
+    "RSA",
+    "AES"
+  ],
+  "author": "Derek Avila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derekavila/AS/issues"
+  },
+  "homepage": "https://github.com/derekavila/AS#readme",
+  "dependencies": {
+    "node-rsa": "^1.1.1"
+  }
+}
